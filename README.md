@@ -1,10 +1,6 @@
 # Richard Glosser 🚀
 
-> *A Computer Science enthusiast passionate about creating interactive experiences through code*
-
-## About Me
-
-Hi! I'm Richard, a Computer Science student at Michigan State University specializing in app development, web design, and game creation. I'm constantly exploring new technologies and frameworks to build innovative solutions that are both functional and engaging.
+> *Computer Science student at MSU crafting innovative digital experiences*
 
 ## 🛠️ Technologies & Skills
 
@@ -13,26 +9,16 @@ Hi! I'm Richard, a Computer Science student at Michigan State University special
 - **Game Design**: C#, GDScript (Godot)
 - **Other**: API Integration, Data Management, UI/UX Design
 
-## 🌱 Current Focus
-
-I'm currently diving deeper into:
-- Game development with Unity and Godot
-- Modern web frameworks
-- AI integration for practical applications
-
 ## 🔍 Featured Projects
 
-### Planties 🌿
-An iOS app that identifies plants through AI-powered image recognition, helping users discover and learn about the flora around them. Perfect for both casual plant enthusiasts and serious botanists!
-
 ### thereMINI: A Wearable Theremin 🎶
-Turning motion into music with FREE-WILi. A wearable device that converts hand movements into musical notes and volume control, making music creation more intuitive and accessible. Built for Spartahack X, won best use of FREE-WiLi technology.
+A wearable device turning hand movements into music using FREE-WILi technology. Hand position controls notes and volume, creating an accessible musical instrument. Winner of "Best Use of FREE-WILi" at Spartahack X.
+
+### Planties 🌿
+iOS app using AI-powered image recognition to identify plants. Logs discoveries and provides detailed information about each plant, bridging technology and nature exploration.
 
 ### ViteReaction ⚡
-Exploring modern web development patterns with React and Vite to create a cookieclicker clone to learn this arcetechure.
-
-### GachaGame 🎮
-A personal RPG project created to scratch the gaming itch without the predatory monetization of typical gacha or chance based games games.
+Modern web application leveraging React and Vite to create responsive, lightning-fast user interfaces with optimized performance and seamless user experience.
 
 ## 📫 Let's Connect
 
@@ -42,4 +28,4 @@ A personal RPG project created to scratch the gaming itch without the predatory 
 
 ---
 
-*Always looking for exciting collaborative opportunities and new challenges. Feel free to reach out!*
+*Open to collaboration and new challenges. Feel free to reach out!*
