@@ -1,6 +1,6 @@
 # Richard Glosser 🚀
 
-> *Computer Science student at MSU crafting innovative digital experiences*
+> *Computer Science student at MSU with a focus in web/app dev, and game dev*
 
 ## 🛠️ Technologies & Skills
 
@@ -18,7 +18,7 @@ A wearable device turning hand movements into music using FREE-WILi technology. 
 iOS app using AI-powered image recognition to identify plants. Logs discoveries and provides detailed information about each plant, bridging technology and nature exploration.
 
 ### ViteReaction ⚡
-Modern web application leveraging React and Vite to create responsive, lightning-fast user interfaces with optimized performance and seamless user experience.
+Modern web application leveraging React and Vite to create responsive, creating a cookie clicker game clone to learn and test the environment.
 
 ## 📫 Let's Connect
 
