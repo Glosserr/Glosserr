@@ -25,7 +25,7 @@ I'm currently diving deeper into:
 ### Planties 🌿
 An iOS app that identifies plants through AI-powered image recognition, helping users discover and learn about the flora around them. Perfect for both casual plant enthusiasts and serious botanists!
 
-## thereMINI: A Wearable Theremin 🎶
+### thereMINI: A Wearable Theremin 🎶
 Turning motion into music with FREE-WILi. A wearable device that converts hand movements into musical notes and volume control, making music creation more intuitive and accessible. Built for Spartahack X, won best use of FREE-WiLi technology.
 
 ### ViteReaction ⚡
