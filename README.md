@@ -1,23 +1,27 @@
-# Richard Glosser 🚀
+# Richard Glosser
 
-> *Computer Science student at MSU with a focus in web/app dev, and game dev*
+I am a recent graduate from Michigan State University with a Bachelor of Science in Computer Science. While my academic background is in general computer science, I have a strong interest in game development and embedded software. I focus on building efficient systems that bridge the gap between low-level hardware and interactive user experiences.
 
-## 🛠️ Technologies & Skills
+## Technical Skills
 
-- **Web Development**: HTML, CSS, JavaScript, TypeScript, React, Vite
-- **App Development**: iOS Native, EJS
-- **Game Design**: C#, GDScript (Godot)
-- **Other**: API Integration, Data Management, UI/UX Design
+* Programming: C++, C#, GDScript, TypeScript, Python, JavaScript
+* Web and Systems: React, Flask, MySQL, Docker, Vite
+* Specialized: Embedded software, digital audio synthesis, UI/UX design
 
-## 🔍 Featured Projects
+## Featured Projects
 
-### thereMINI: A Wearable Theremin 🎶
-A wearable device turning hand movements into music using FREE-WILi technology. Hand position controls notes and volume, creating an accessible musical instrument. Winner of "Best Use of FREE-WILi" at Spartahack X.
+### thereMINI: Wearable Theremin
+This wearable device translates hand movements into musical output using sensor technology. The project was awarded Best Use of FREE-WILi at SpartaHack X and demonstrates my ability to integrate hardware with real-time software processing.
 
-- Personal Site: [richardglosser.netlify.app](https://richardglosser.netlify.app/)
-- LinkedIn: [richard-glosser-76145426b](https://linkedin.com/in/richard-glosser-76145426b)
-- Devpost: [Glosserr](https://devpost.com/Glosserr)
+### Digital Audio Synthesis
+I developed a pipe organ synthesizer in C++ that features custom-coded vibrato and amplitude shimmer functions. This project reflects my experience in musical instrument programming and digital signal processing.
+
+## Professional Links
+
+* Portfolio: richardglosser.netlify.app
+* LinkedIn: linkedin.com/in/richard-glosser-76145426b
+* Devpost: devpost.com/Glosserr
 
 ---
 
-*Open to collaboration and new challenges. Feel free to reach out!*
+I am open to collaboration and new technical challenges. Please feel free to reach out via LinkedIn or my portfolio.
