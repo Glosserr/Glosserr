@@ -1,12 +1,12 @@
 # Richard Glosser
 
-I am a recent graduate from Michigan State University with a Bachelor of Science in Computer Science. While my academic background is in general computer science, I have a strong interest in game development and embedded software. I focus on building efficient systems that bridge the gap between low-level hardware and interactive user experiences.
+I am a recent graduate from Michigan State University with a Bachelor of Science in Computer Science. While my academic background is in general computer science, I have a strong interest in game development and embedded software.
 
 ## Technical Skills
 
-* Programming: C++, C#, GDScript, TypeScript, Python, JavaScript
-* Web and Systems: React, Flask, MySQL, Docker, Vite
-* Specialized: Embedded software, digital audio synthesis, UI/UX design
+* Programming: C++, C#, TypeScript, Python, JavaScript
+* Web and Systems: React, Flask, MySQL, NextJS, Docker
+* Specialized: Embedded software, Physics and Movement in Games, Ease of Interaction and Acessability with Software
 
 ## Featured Projects
 
@@ -21,7 +21,3 @@ I developed a pipe organ synthesizer in C++ that features custom-coded vibrato a
 * Portfolio: richardglosser.netlify.app
 * LinkedIn: linkedin.com/in/richard-glosser-76145426b
 * Devpost: devpost.com/Glosserr
-
----
-
-I am open to collaboration and new technical challenges. Please feel free to reach out via LinkedIn or my portfolio.
